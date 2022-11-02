@@ -67,12 +67,30 @@ p {
   margin-top: 55px;
   margin-bottom: 50px;
 }
+.navbar-logo {
+  width: 150px;
+  height: 42px;
+}
+.work-inquiry {
+  background: var(--secondary-color);
+  margin-top: 130px;
+  margin-bottom: 80px;
+  text-align: left;
+  padding-left: 120px;
+  padding-top: 70px;
+}
+.work-inquiry p {
+  opacity: 0.7;
+  margin-top: 18px;
+}
+
 @media (max-width: 992px) {
   .project-description {
     padding-top: 0;
     text-align: center;
     margin-left: 0;
   }
+
   .hero {
     padding: 70px 20px;
   }
@@ -84,5 +102,13 @@ p {
   }
   .hero p {
     margin-bottom: 30px;
+  }
+  .work-inquiry {
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+  }
+  .work-inquiry .branding-button {
+    margin-top: 20px;
   }
 }
