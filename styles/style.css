@@ -134,4 +134,7 @@ p {
   .work-inquiry .branding-button {
     margin-top: 20px;
   }
+  .contact-email {
+    font-size: 16px;
+  }
 }
