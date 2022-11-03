@@ -116,6 +116,7 @@ p {
 
   .hero {
     padding: 70px 20px;
+    margin-bottom: 30px;
   }
   .hero h1 {
     font-size: 45px;
@@ -136,5 +137,8 @@ p {
   }
   .contact-email {
     font-size: 16px;
+  }
+  .social-media-icons {
+    padding-bottom: 50px;
   }
 }
