@@ -113,7 +113,7 @@ p {
   padding: 15px;
 }
 .about-hero {
-  padding: 200px 0;
+  padding: 200px 0 0;
 }
 .about-hero h1 {
   font-size: 64px;
@@ -164,7 +164,7 @@ p {
     padding-bottom: 50px;
   }
   .about-hero {
-    padding: 120px 0;
+    padding: 120px 0 10px;
   }
   .about-hero-description {
     padding: 30px;
