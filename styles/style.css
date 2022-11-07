@@ -112,19 +112,23 @@ p {
   width: 40px;
   padding: 15px;
 }
-.about-hero {
+.content-container {
   padding: 200px 0 0;
 }
-.about-hero h1 {
+.content h1 {
   font-size: 64px;
   line-height: 85px;
 }
-.about-hero h2 {
+.content h2 {
   font-size: 18px;
   font-family: var(--default-font-family);
   font-weight: bold;
 }
-.about-hero p {
+.content h3 {
+  font-size: 24px;
+  font-weight: bold;
+}
+.content p {
   font-size: 16px;
   line-height: 30px;
   opacity: 0.7;
@@ -163,18 +167,18 @@ p {
   .social-media-icons {
     padding-bottom: 50px;
   }
-  .about-hero {
+  .content-container {
     padding: 120px 0 10px;
   }
-  .about-hero-description {
+  .content {
     padding: 30px;
     text-align: center;
   }
-  .about-hero h1 {
+  .content h1 {
     font-size: 50px;
     line-height: 60px;
   }
-  .about-hero img {
+  .content img {
     padding: 30px;
   }
 }
