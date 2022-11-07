@@ -20,7 +20,7 @@ p {
 .hero {
   background: var(--secondary-color);
   text-align: center;
-  padding: 270px 0;
+  padding: 325px 0;
 }
 .hero p {
   color: var(--paragraphs-text-color);
