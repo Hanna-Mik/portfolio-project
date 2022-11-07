@@ -178,7 +178,7 @@ p {
     font-size: 50px;
     line-height: 60px;
   }
-  .content img {
+  .content-container img {
     padding: 30px;
   }
 }
