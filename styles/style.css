@@ -112,7 +112,23 @@ p {
   width: 40px;
   padding: 15px;
 }
-
+.about-hero {
+  padding: 200px 0;
+}
+.about-hero h1 {
+  font-size: 64px;
+  line-height: 85px;
+}
+.about-hero h2 {
+  font-size: 18px;
+  font-family: var(--default-font-family);
+  font-weight: bold;
+}
+.about-hero p {
+  font-size: 16px;
+  line-height: 30px;
+  opacity: 0.7;
+}
 @media (max-width: 992px) {
   .project-description {
     padding-top: 0;
@@ -146,5 +162,19 @@ p {
   }
   .social-media-icons {
     padding-bottom: 50px;
+  }
+  .about-hero {
+    padding: 120px 0;
+  }
+  .about-hero-description {
+    padding: 30px;
+    text-align: center;
+  }
+  .about-hero h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .about-hero img {
+    padding: 30px;
   }
 }
