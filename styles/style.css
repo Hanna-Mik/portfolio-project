@@ -45,7 +45,7 @@ p {
   font-weight: lighter;
   border-radius: 4px;
   padding: 18px 46px;
-  transition: all 0.5s ease-out;
+  transition: all 100ms ease-in-out;
 }
 .branding-button:hover {
   background: var(--secondary-color);
@@ -97,7 +97,7 @@ p {
   text-decoration: none;
   color: black;
   margin-bottom: 41px;
-  transition: all 0.5s ease-out;
+  transition: all 100ms ease-in-out;
 }
 .contact-email:hover {
   color: var(--primary-color);
