@@ -188,4 +188,8 @@ p {
   .content-container img {
     padding: 30px;
   }
+  footer p {
+    font-size: 12px;
+    padding: 0 10px;
+  }
 }
